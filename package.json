@@ -21,13 +21,14 @@
     "standard": "^14.3.4"
   },
   "dependencies": {
+    "@redis/search": "^1.1.2",
     "corsify": "^2.1.0",
     "cuid": "^2.1.8",
     "dotenv": "^8.2.0",
     "healthpoint": "^1.0.0",
     "http-hash-router": "^2.0.1",
     "productionize": "^4.1.0",
-    "redis": "^3.0.2",
+    "redis": "^4.6.6",
     "req-logger": "^2.0.0",
     "send-data": "^8.0.0"
   },
